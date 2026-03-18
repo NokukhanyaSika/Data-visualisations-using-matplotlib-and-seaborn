@@ -1,0 +1,2 @@
+# Data-visualisations-using-matplotlib-and-seaborn
+Leveraging Matplotlib and Seaborn to produce insightful visualisations that examine arrest rates across U.S. states by crime type, contextualized against population data. This highlights patterns and relationships between demographic distribution and crime statistics, enabling a more structured and data‑driven understanding of regional variations.
