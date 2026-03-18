@@ -24,7 +24,18 @@ Plot a heatmap correlation matrix to identify relationships between crime types
 3. City‑level visualization
 Create stacked horizontal bar charts showing arrests indexed by city
 Build a numeric city index for consistent plotting
-Combined visualization with population data
+4. Combined visualization with population data
 Reshape dataset using .melt() for crime type comparisons
 Plot crime statistics as grouped bar charts
 Overlay urban population percentages on a secondary axis for contextual analysis
+
+# Outcome
+The project produces a set of clear, interpretable visualizations that highlight:
+Correlations between different crime types
+Variations in arrest statistics across U.S. cities
+The relationship between urban population size and crime distribution
+These insights provide a structured, data‑driven understanding of regional crime patterns and demographic influences.
+
+
+
+
